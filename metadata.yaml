@@ -1,10 +1,13 @@
 _repo: Raphael--Or-Pages-of-the-Book-of-Life-at-Twenty_13019
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Starkweather, C. C.
     gutenberg_agent_id: '39699'
     url: http://www.gutenberg.org/2009/agents/39699
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lamartine, Alphonse de
@@ -20,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
     - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
 description: '"A touching, fascinating and pathetic story of doomed love."--Amazon.com.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13019#Raphael--Or-Pages-of-the-Book-of-Life-at-Twenty
 gutenberg_issued: '2004-07-25'
 gutenberg_type: Text
 identifiers:
